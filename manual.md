@@ -272,4 +272,4 @@ sudo adduser $USER vboxsf
 
 <img width="475" alt="５８：　　　 2024-01-06 192216" src="https://github.com/SMAN8/Create-of-AirGap/assets/80440848/1f60c434-17a5-4e10-8dae-cd0ddb488f8e">
 
-+ 上記手順を行っても、「共有フォルダが表示されない」「共有フォルダ化されていない」場合は、一度VBox_GAs_7.0.12をアンマンウントしてから再度挿入し、再起動すると共有フォルダは完了します。
++ 上記手順を行っても、「共有フォルダが表示されない」「共有フォルダ化されていない」場合は、一度VBox_GAs_7.0.12をアンマンウントしてから再度挿入し、再起動すると共有フォルダは完了します。それでもダメなら[GUI操作でGuest Additionsがインストールできなかった場合](https://docs.spojapanguild.net/setup/air-gap-guid/#6-swap)を試してください。
